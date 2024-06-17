@@ -5,4 +5,4 @@ const firebaseConfig = {
     storageBucket: "quantombot7.appspot.com",
     messagingSenderId: "816704891937",
     appId: "1:816704891937:web:0e8bedb05e145e5ab80760"
-  }
+  } 
